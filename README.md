@@ -8,9 +8,9 @@ This repository is my personal log for documenting solutions and approaches to c
 
 I approach my LeetCode studies by focusing on one category at a time. To keep things straightforward, I've organized my progress log based on difficulty levels:
 
-Easy Problems Solved: 22
-Medium Problems Solved: 6
-Hard Problems Solved: 2
+Easy Problems Solved: 22<br>
+Medium Problems Solved: 6<br>
+Hard Problems Solved: 2<br>
 I'll keep this section updated as I progress through my problem-solving journey.
 
 ### Built With
