@@ -1,25 +1,25 @@
-# LeetCode Learning Journey
+# LeetCode Learning Journey with Java 17
 
 ## About The Project
 
-This repository is dedicated to tracking my progress as I tackle coding challenges on [LeetCode](https://leetcode.com/). It serves as a personal log where I document solutions, approaches, and valuable lessons learned throughout my coding practice.
+This repository is my personal log for documenting solutions and approaches to coding challenges on [LeetCode](https://leetcode.com/). It is a reflection of my continuous learning and problem-solving journey, capturing insights and progress using Java 17.
 
 ### Built With
 
-* [Java](https://www.java.com/)
-* [Gradle](https://gradle.org/)
+* [Java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) (JDK 17.0.5 LTS)
+* [Gradle](https://gradle.org/) / [Maven](https://maven.apache.org/) (depending on the project configuration)
 
 ## Getting Started
 
-This section provides instructions on how to set up the project locally. To get a local copy up and running, follow these simple steps.
+To set up this project locally for development and testing purposes, follow the instructions below.
 
 ### Prerequisites
 
-- JDK 11 or higher
-- Gradle (Refer to the [official Gradle installation guide](https://gradle.org/install/))
+- Java JDK 17.0.5 LTS
+- Gradle or Maven (if the project uses Maven configuration)
 
 ### Installation
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_username_/your_repo_name.git
+   git clone https://github.com/your_username_/leetcode-java-learning.git
