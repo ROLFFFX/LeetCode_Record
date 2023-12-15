@@ -2,7 +2,10 @@ package Medium;
 
 public class Maximum_Subarray {
     public static void main(String[] args) {
-        int[] nums = {5,4,-1,7,8};
+        int[] nums = {-2,1,-3,4,-1,2,1,-5,4};
+        int[] nums2 = {-4, -1, -2, -3};
+        int ans = maxSubArray(nums2);
+        System.out.println(ans);
 
     }
     public static int maxSubArray(int[] nums) {
