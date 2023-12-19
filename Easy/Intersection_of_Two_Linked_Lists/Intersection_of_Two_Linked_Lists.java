@@ -1,6 +1,7 @@
 package Easy.Intersection_of_Two_Linked_Lists;
 
 import java.util.HashSet;
+import java.util.List;
 
 public class Intersection_of_Two_Linked_Lists {
     public static void main(String[] args) {
@@ -19,6 +20,19 @@ public class Intersection_of_Two_Linked_Lists {
     }
 
     public static ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        
+        HashSet<ListNode> visited = new HashSet<>();
+        if (headA == null || headB == null){ return null; }
+        while (headA != null){
+            visited.add(headA);
+            headA = headA.next;
+
+        }
+        while (headB!=null){
+            if (visited.contains(headB)){
+                return headB;
+            }
+            headB = headB.next;
+        }
+        return null;
     }
 }
