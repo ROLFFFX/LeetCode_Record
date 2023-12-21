@@ -19,6 +19,19 @@ public class Intersection_of_Two_Linked_Lists {
 
     }
 
+
+    /** if (headA == null || headB == null) return null;
+
+     ListNode a = headA;
+     ListNode b = headB;
+
+     // Continue traversing until both pointers are null or equal
+     while (a != b) {
+     a = a == null ? headB : a.next;
+     b = b == null ? headA : b.next;
+     }
+
+     return a; **/
     public static ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         HashSet<ListNode> visited = new HashSet<>();
         if (headA == null || headB == null){ return null; }
