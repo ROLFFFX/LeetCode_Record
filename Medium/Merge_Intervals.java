@@ -9,8 +9,9 @@ public class Merge_Intervals {
         int[][] test = {{1,4},{4,5}};
 //        int[] ans = merge_two(new int[]{1,4},new int[]{4,5});
 //        System.out.println(is_overlap(new int[]{1,4},new int[]{4,5}));
+        int [][] test_2 = {{1,3},{2,6},{8,10},{15,18}};
 
-        int[][] ans = merge(test);
+        int[][] ans = merge(test_2);
         System.out.println();
     }
 
@@ -18,9 +19,6 @@ public class Merge_Intervals {
         if (intervals.length <= 1) {
             return intervals;
         }
-
-        // Sort the intervals by their starting times
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
         List<int[]> merged = new ArrayList<>();
         int[] currentInterval = intervals[0];
@@ -36,7 +34,6 @@ public class Merge_Intervals {
                 merged.add(currentInterval);
             }
         }
-
         return merged.toArray(new int[merged.size()][]);
     }
 
