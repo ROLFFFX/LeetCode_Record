@@ -18,21 +18,41 @@ public class LongestCommonPrefix_3_14 {
     }
 
     public static String longestCommonPrefix(String[] strs) {
-        if (strs.length == 0) return "";
-        Arrays.sort(strs);
-        String return_val = "";
-        int i = 0;
-        int len = strs.length;
-        String first = strs[0];
-        String last = strs[len-1];
-        while (i<first.length()){
-            if (first.charAt(i) == last.charAt(i)){
-                return_val += first.charAt(i);
-            } else {break;}
-            i++;
+        if (strs.length == 0){
+            return "";
         }
-        return return_val;
+        Arrays.sort(strs);
+        String ans = "";
+        for (int i = 0; i < strs[0].length(); i++){
+            char curr = strs[0].charAt(i);
+            int flag = 0;
+            while (flag != strs.length){
+                if (strs[flag].charAt(i) != curr){
+                    return ans;
+                }
+                flag++;
+            }
+            ans += curr;
+        }
+        return ans;
     }
+
+//    public static String longestCommonPrefix(String[] strs) {
+//        if (strs.length == 0) return "";
+//        Arrays.sort(strs);
+//        String return_val = "";
+//        int i = 0;
+//        int len = strs.length;
+//        String first = strs[0];
+//        String last = strs[len-1];
+//        while (i<first.length()){
+//            if (first.charAt(i) == last.charAt(i)){
+//                return_val += first.charAt(i);
+//            } else {break;}
+//            i++;
+//        }
+//        return return_val;
+//    }
 }
 
 //    public static String longestCommonPrefix(String[] strs) {
