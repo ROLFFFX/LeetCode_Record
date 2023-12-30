@@ -1,4 +1,4 @@
-package Hard;
+package Easy;
 
 public class Number_Of_1_Bits {
     public int hammingWeight(int n) {
