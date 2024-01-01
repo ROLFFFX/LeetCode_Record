@@ -9,8 +9,8 @@ public class Palindrome_Linked_List {
         ListNode c = new ListNode(1);
         a.next = b;
         b.next = c;
-        System.out.println(isPalindrome(a));
-
+        ListNode reverse = reverseNew(a);
+        System.out.println();
     }
     public static boolean isPalindrome(ListNode head) {
         ListNode curr = head;
@@ -27,5 +27,19 @@ public class Palindrome_Linked_List {
             head = head.next;
         }
         return true;
+    }
+
+    // non-destructive reversal
+    private static ListNode reverseNew(ListNode head) {
+        ListNode prev = new ListNode(0);
+        prev.next = null;
+        ListNode curr = head;
+        while (curr != null) { // addFirst
+            ListNode newNode = new ListNode(curr.val);
+            newNode.next = prev.next;
+            prev.next = newNode;
+            curr = curr.next;
+        }
+        return prev.next;
     }
 }
