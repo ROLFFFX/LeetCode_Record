@@ -47,7 +47,7 @@ Easy Problems Solved: 31<br>
 Medium Problems Solved: 21<br>
 Hard Problems Solved: 3<br>
 
-### Progress Update as of December 23, 2023: 90
+### Progress Update as of December 31, 2023: 90
 
 Easy Problems Solved: 48<br>
 Medium Problems Solved: 38<br>
