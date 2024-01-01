@@ -32,7 +32,7 @@ Java JDK 17
 LeetCode for the coding challenges
 README template sourced from othneildrew
 
-### Progress Update as of November 7, 2023
+### Progress Update as of November 7, 2023: 30
 
 I approach my LeetCode studies by focusing on one category at a time. To keep things straightforward, I've organized my progress log based on difficulty levels:
 
@@ -41,10 +41,16 @@ Medium Problems Solved: 6<br>
 Hard Problems Solved: 2<br>
 I'll keep this section updated as I progress through my problem-solving journey.
 
-### Progress Update as of December 23, 2023
+### Progress Update as of December 23, 2023: 58
 
 Easy Problems Solved: 31<br>
 Medium Problems Solved: 21<br>
 Hard Problems Solved: 3<br>
+
+### Progress Update as of December 23, 2023: 90
+
+Easy Problems Solved: 48<br>
+Medium Problems Solved: 38<br>
+Hard Problems Solved: 4<br>
 
 
