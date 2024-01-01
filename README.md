@@ -41,7 +41,7 @@ Medium Problems Solved: 6<br>
 Hard Problems Solved: 2<br>
 I'll keep this section updated as I progress through my problem-solving journey.
 
-### Progress Update as of December 23, 2023: 58
+### Progress Update as of December 23, 2023: 55
 
 Easy Problems Solved: 31<br>
 Medium Problems Solved: 21<br>
