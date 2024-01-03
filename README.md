@@ -53,4 +53,10 @@ Easy Problems Solved: 48<br>
 Medium Problems Solved: 38<br>
 Hard Problems Solved: 4<br>
 
+### Progress Update as of January 3, 2024: 122
+
+Easy Problems Solved: 67<br>
+Medium Problems Solved: 51<br>
+Hard Problems Solved: 4<br>
+
 
