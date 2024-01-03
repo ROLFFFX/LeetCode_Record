@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class Number_of_Laser_Beams_in_a_Bank {
     public static void main(String[] args) {
-        
+
     }
     public int numberOfBeams(String[] bank) {
         ArrayList<Integer> rows = new ArrayList();
