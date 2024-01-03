@@ -1,5 +1,7 @@
 package Medium;
 
+import java.util.Arrays;
+
 public class K_Radius_Subarray_Averages {
     public int[] getAverages(int[] nums, int k) {
         if (k == 0) {
