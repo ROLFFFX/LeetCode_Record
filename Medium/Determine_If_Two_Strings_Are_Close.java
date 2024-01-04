@@ -17,7 +17,7 @@ public class Determine_If_Two_Strings_Are_Close {
                 return false;
             }
         }
-        
+
         Arrays.sort(bucket1);
         Arrays.sort(bucket2);
         for (int i = 0; i < bucket1.length; i++){
