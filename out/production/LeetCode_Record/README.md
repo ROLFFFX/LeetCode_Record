@@ -30,11 +30,10 @@ Rolf Shi, yshi373@emory.edu
 ### Acknowledgements
 Java JDK 17
 LeetCode for the coding challenges
-README template sourced from othneildrew
-
-### Progress Update as of November 7, 2023: 30
 
 I approach my LeetCode studies by focusing on one category at a time. To keep things straightforward, I've organized my progress log based on difficulty levels:
+
+### Progress Update as of November 7, 2023: 30
 
 Easy Problems Solved: 22<br>
 Medium Problems Solved: 6<br>
@@ -51,6 +50,12 @@ Hard Problems Solved: 3<br>
 
 Easy Problems Solved: 48<br>
 Medium Problems Solved: 38<br>
+Hard Problems Solved: 4<br>
+
+### Progress Update as of January 3, 2024: 122
+
+Easy Problems Solved: 67<br>
+Medium Problems Solved: 51<br>
 Hard Problems Solved: 4<br>
 
 
