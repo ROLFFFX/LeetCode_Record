@@ -1,4 +1,4 @@
-package Easy;
+package Easy.Remove_Duplicates_from_Sorted_List;
 
 public class Remove_Duplicates_from_Sorted_List {
     public ListNode deleteDuplicates(ListNode head) {
