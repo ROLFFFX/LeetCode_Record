@@ -16,8 +16,14 @@ public class Count_the_Number_of_Powerful_Integers {
         System.out.println(ans);
     }
     public static long numberOfPowerfulInt(long start, long finish, int limit, String s) {
+        int n = s.length();
+        long curr = Long.valueOf(s);
+        int base = (int) Math.pow(10, n);
+        for (int i = 0; i < limit; i++){
+            while (curr <= finish){
 
-
+            }
+        }
         return 1;   //dummy
     }
 }
