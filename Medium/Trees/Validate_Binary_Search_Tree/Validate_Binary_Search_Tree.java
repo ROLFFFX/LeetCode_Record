@@ -1,4 +1,4 @@
-package Medium.Validate_Binary_Search_Tree;
+package Medium.Trees.Validate_Binary_Search_Tree;
 
 import java.util.Stack;
 

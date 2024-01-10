@@ -1,4 +1,4 @@
-package Medium.Amount_of_Time_for_Binary_Tree_to_Be_Infected;
+package Medium.Trees.Amount_of_Time_for_Binary_Tree_to_Be_Infected;
 
 import java.util.*;
 
