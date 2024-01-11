@@ -19,11 +19,13 @@ public class Count_the_Number_of_Powerful_Integers {
         int n = s.length();
         long curr = Long.valueOf(s);
         int base = (int) Math.pow(10, n);
-        for (int i = 0; i < limit; i++){
-            while (curr <= finish){
+
+        while (curr <= finish){
+            for (int i = 0; i < limit; i++){
 
             }
         }
+
         return 1;   //dummy
     }
 }
