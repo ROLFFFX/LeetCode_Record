@@ -1,0 +1,21 @@
+package Easy;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Unique_Email_Addresses {
+    public int numUniqueEmails(String[] emails) {
+        Set<String> set = new HashSet();
+        int count=0;
+        for(String email: emails){
+            int atIndex = email.indexOf("@");
+            int plusIndex = email.indexOf("+");
+            String str1 = "";
+            if (plusIndex >= 0) str1 = email.substring(0, plusIndex);
+            else str1 = email.substring(0, atIndex);
+            str1 = str1.replace(".","") + email.substring(atIndex);
+            if(set.add(str1)) count++;
+        }
+        return count;
+    }
+}
