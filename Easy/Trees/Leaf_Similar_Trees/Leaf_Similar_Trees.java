@@ -1,4 +1,4 @@
-package Easy.Leaf_Similar_Trees;
+package Easy.Trees.Leaf_Similar_Trees;
 
 import java.util.ArrayList;
 import java.util.List;

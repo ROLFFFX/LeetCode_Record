@@ -1,4 +1,4 @@
-package Easy.Range_Sum_Of_BST;
+package Easy.Trees.Range_Sum_Of_BST;
 
 public class Rangae_Sum_Of_BST {
     public int rangeSumBST(TreeNode root, int low, int high) {

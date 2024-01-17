@@ -1,10 +1,9 @@
-package Easy.Leaf_Similar_Trees;
+package Easy.Trees.Range_Sum_Of_BST;
 
   public class TreeNode {
       int val;
       TreeNode left;
-      TreeNode right;
-      TreeNode() {}
+      TreeNode right;     TreeNode() {}
       TreeNode(int val) { this.val = val; }
       TreeNode(int val, TreeNode left, TreeNode right) {
           this.val = val;
