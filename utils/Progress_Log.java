@@ -33,7 +33,7 @@ public class Progress_Log {
             // Append the date and time to the file
             FileWriter fileWriter = new FileWriter(filename, true);
             PrintWriter printWriter = new PrintWriter(fileWriter);
-            printWriter.println("Program ran at: " + formattedDateTime);
+            printWriter.println("Problem solved at: " + formattedDateTime + "\t" + s);
             printWriter.close();
         } catch (IOException e) {
             e.printStackTrace();
