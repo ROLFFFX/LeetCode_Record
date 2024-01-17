@@ -1,1 +1,2 @@
+Problem solved at: 2024-01-17 15:24:10	|	236	|	Number of Senior Citizens
 Problem solved at: 2024-01-17 15:13:45	|	235	|	Unique Email Addresses
