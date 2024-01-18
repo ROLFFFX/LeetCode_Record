@@ -2,6 +2,7 @@ Problem solved at: 2024-01-17 15:24:10	|	236	|	Number of Senior Citizens
 Problem solved at: 2024-01-17 15:40:17	|	233	|	Count Operations to Obtain Zero
 Problem solved at: 2024-01-17 16:04:30	|	229	|	Number of Unequal Triplets in Array
 Problem solved at: 2024-01-17 15:39:57	|	234	|	Day of the Year
+Problem solved at: 2024-01-17 21:52:44	|	239	|	Maximum Count of Positive Integer and Negative Integer
 Problem solved at: 2024-01-17 15:45:48	|	232	|	Invert Binary Tree
 Problem solved at: 2024-01-17 15:46:06	|	231	|	Same Tree
 Problem solved at: 2024-01-17 21:49:19	|	238	|	Sum of Even Numbers After Queries
