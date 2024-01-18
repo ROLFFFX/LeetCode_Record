@@ -64,5 +64,7 @@ public class Progress_Log {
         } catch (IOException e) {
             e.printStackTrace();
         }
+
+        LogOrganizer.main(null);
     }
 }
