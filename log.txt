@@ -1,4 +1,5 @@
-Problem solved at: 2024-01-18 10:25:18	|	241	|	Check If All 1's Are at Least Length K Places Away
+Problem solved at: 2024-01-18 11:07:30	|	242	|	Shuffle String
+Problem solved at: 2024-01-18 10:56:52	|	241	|	Check If All 1's Are at Least Length K Places Away
 Problem solved at: 2024-01-18 09:53:56	|	240	|	Maximum 69 Number
 Problem solved at: 2024-01-17 21:58:14	|	239	|	Maximum Count of Positive Integer and Negative Integer
 Problem solved at: 2024-01-17 21:49:19	|	238	|	Sum of Even Numbers After Queries
