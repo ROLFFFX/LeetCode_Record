@@ -9,8 +9,7 @@ function RecentProblems() {
       .then((text) => {
         const lines = text.trim().split("\n");
         const parsedLines = lines
-          .slice(-10)
-          .reverse()
+          .slice(0, 10) // Get the first 10 lines
           .map((line) => {
             const parts = line.split("|");
             if (parts.length >= 3) {

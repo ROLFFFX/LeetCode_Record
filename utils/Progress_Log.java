@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Rearrange Characters to Make Target String";
+        String s = "Smallest Range I";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {

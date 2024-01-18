@@ -1,0 +1,20 @@
+Problem solved at: 2024-01-18 18:02:21	|	248	|	Rearrange Characters to Make Target String
+Problem solved at: 2024-01-18 17:40:17	|	247	|	Maximum Bags With Full Capacity of Rocks
+Problem solved at: 2024-01-18 16:38:28	|	246	|	Minimum Common Value
+Problem solved at: 2024-01-18 15:07:10	|	245	|	Find Subarrays With Equal Sum
+Problem solved at: 2024-01-18 14:48:07	|	244	|	Faulty Keyboard
+Problem solved at: 2024-01-18 12:40:40	|	243	|	Sort the People
+Problem solved at: 2024-01-18 11:07:30	|	242	|	Shuffle String
+Problem solved at: 2024-01-18 10:56:52	|	241	|	Check If All 1's Are at Least Length K Places Away
+Problem solved at: 2024-01-18 09:53:56	|	240	|	Maximum 69 Number
+Problem solved at: 2024-01-17 21:58:14	|	239	|	Maximum Count of Positive Integer and Negative Integer
+Problem solved at: 2024-01-17 21:49:19	|	238	|	Sum of Even Numbers After Queries
+Problem solved at: 2024-01-17 15:43:21	|	237	|	Minimum Absolute Difference
+Problem solved at: 2024-01-17 15:24:10	|	236	|	Number of Senior Citizens
+Problem solved at: 2024-01-17 15:13:45	|	235	|	Unique Email Addresses
+Problem solved at: 2024-01-17 15:39:57	|	234	|	Day of the Year
+Problem solved at: 2024-01-17 15:40:17	|	233	|	Count Operations to Obtain Zero
+Problem solved at: 2024-01-17 15:45:48	|	232	|	Invert Binary Tree
+Problem solved at: 2024-01-17 15:46:06	|	231	|	Same Tree
+Problem solved at: 2024-01-17 16:03:33	|	230	|	Minimum Operations to Make All Array Elements Equal
+Problem solved at: 2024-01-17 16:04:30	|	229	|	Number of Unequal Triplets in Array

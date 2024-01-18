@@ -29,6 +29,7 @@ function LeetCodeStats() {
           <div>{easySolved}</div>
           <div>{mediumSolved}</div>
           <div>{hardSolved}</div>
+          <div>{easySolved + mediumSolved + hardSolved}</div>
         </div>
         <div>
           <RecentProblems />
