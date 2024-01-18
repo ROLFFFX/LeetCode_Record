@@ -31,7 +31,7 @@ class LogEntry implements Comparable<LogEntry> {
 public class LogOrganizer {
 
     public static void main(String[] args) {
-        String filename = "log.txt";
+        String filename = "./log/public/log.txt";
         List<LogEntry> entries = new ArrayList<>();
 
         try {
