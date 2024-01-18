@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Faulty Keyboard";
+        String s = "Find Subarrays With Equal Sum";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
