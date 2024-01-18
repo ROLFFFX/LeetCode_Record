@@ -21,7 +21,7 @@ public class Progress_Log {
         }
         System.out.println(ans);
 
-        String filename = "log.txt";
+        String filename = "./log/public/log.txt";
         Map<String, String> problemLog = new HashMap<>();
         int maxCounter = 234; // Start from 234, so the first new entry will be 235
 
