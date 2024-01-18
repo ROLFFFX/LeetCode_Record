@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-18 16:38:28	|	246	|	Minimum Common Value
 Problem solved at: 2024-01-18 15:07:10	|	245	|	Find Subarrays With Equal Sum
 Problem solved at: 2024-01-18 14:48:07	|	244	|	Faulty Keyboard
 Problem solved at: 2024-01-18 12:40:40	|	243	|	Sort the People
