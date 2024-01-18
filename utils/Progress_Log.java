@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Maximum Count of Positive Integer and Negative Integer";
+        String s = "Maximum 69 Number";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
