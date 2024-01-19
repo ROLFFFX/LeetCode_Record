@@ -4,6 +4,8 @@ import App from "./App.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <App />
+    <div style={{ backgroundColor: "#282c34" }}>
+      <App />
+    </div>
   </React.StrictMode>
 );

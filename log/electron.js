@@ -4,11 +4,13 @@ function createWindow() {
   const mainWindow = new BrowserWindow({
     width: 400,
     height: 400,
+    backgroundColor: "#282c34",
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false,
     },
   });
+  mainWindow.setAlwaysOnTop(true);
   mainWindow.loadURL("http://localhost:5173/");
 }
 

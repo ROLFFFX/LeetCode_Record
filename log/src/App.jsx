@@ -5,9 +5,9 @@ export default function App() {
   return (
     <div
       style={{
-        border: "1px solid black",
-        maxHeight: "350px",
-        maxWidth: "400px",
+        // maxHeight: "350px",
+        // maxWidth: "400px",
+        backgroundColor: "#282c34",
       }}
     >
       <LeetCodeStats />
