@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Most Common Word";
+        String s = "Minimum Falling Path Sum";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
