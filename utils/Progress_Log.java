@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Sum of Subarray Minimums";
+        String s = "Number of Strings That Appear as Substrings in Word";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
