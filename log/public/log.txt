@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-20 13:05:05	|	256	|	Minimize Length of Array Using Operations
 Problem solved at: 2024-01-20 11:06:59	|	255	|	Find if Array Can Be Sorted
 Problem solved at: 2024-01-20 11:06:13	|	254	|	Divide an Array Into Subarrays With Minimum Cost I
 Problem solved at: 2024-01-19 22:53:50	|	253	|	Number of Strings That Appear as Substrings in Word

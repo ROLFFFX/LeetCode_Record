@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Find if Array Can Be Sorted";
+        String s = "Minimize Length of Array Using Operations";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
