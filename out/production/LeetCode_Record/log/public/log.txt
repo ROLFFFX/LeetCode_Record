@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-20 11:06:13	|	254	|	Divide an Array Into Subarrays With Minimum Cost I
 Problem solved at: 2024-01-19 22:53:50	|	253	|	Number of Strings That Appear as Substrings in Word
 Problem solved at: 2024-01-19 22:47:22	|	252	|	Sum of Subarray Minimums
 Problem solved at: 2024-01-19 21:30:32	|	251	|	Minimum Falling Path Sum

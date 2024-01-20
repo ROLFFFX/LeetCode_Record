@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Divide an Array Into Subarrays With Minimum Cost I";
+        String s = "Find if Array Can Be Sorted";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
