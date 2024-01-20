@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Minimum Falling Path Sum";
+        String s = "Sum of Subarray Minimums";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
