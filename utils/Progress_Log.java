@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Construct String from Binary Tree";
+        String s = "Merge Two Binary Trees";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
