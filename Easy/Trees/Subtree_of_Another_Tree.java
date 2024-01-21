@@ -4,6 +4,35 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Subtree_of_Another_Tree {
+    public boolean isSubtree_optimized(TreeNode root, TreeNode subRoot) {
+        if (root == null) return false;
+        if (compare(root, subRoot)) return true;
+        return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
+    }
+    public boolean isSubtree(TreeNode root, TreeNode subRoot) {
+        int val = subRoot.val;
+        Queue<TreeNode> q = new LinkedList();
+        q.add(root);
+        while (!q.isEmpty()){
+            int sz = q.size();
+            for (int i = 0; i < sz; i++){
+                TreeNode curr = q.poll();
+                if (curr.val == val && compare(curr, subRoot)){
+                    return true;
+                }
+                if (curr.left != null) q.add(curr.left);
+                if (curr.right != null) q.add(curr.right);
+            }
+        }
+        return false;
+    }
+
+    public boolean compare(TreeNode r1, TreeNode r2){
+        if (r1 == null && r2 == null) return true;
+        if (r1 == null || r2 == null) return false;
+        if (r1.val != r2.val) return false;
+        return compare(r1.left, r2.left) && compare(r1.right, r2.right);
+    }
 //    public boolean isSubtree(TreeNode root, TreeNode subRoot) {
 //        Queue<TreeNode> q = new LinkedList();
 //        q.add(root);
