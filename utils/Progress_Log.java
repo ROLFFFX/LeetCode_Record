@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Binary Tree Postorder Traversal";
+        String s = "Binary Tree Paths";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
