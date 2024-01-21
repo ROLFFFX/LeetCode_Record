@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "House Robber";
+        String s = "Subtree of Another Tree";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
