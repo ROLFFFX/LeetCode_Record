@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Sum of Left Leaves";
+        String s = "Find a Corresponding Node of a Binary Tree in a Clone of That Tree";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
