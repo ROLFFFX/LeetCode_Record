@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Check If a Word Occurs As a Prefix of Any Word in a Sentence";
+        String s = "Rearrange Array Elements by Sign";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
