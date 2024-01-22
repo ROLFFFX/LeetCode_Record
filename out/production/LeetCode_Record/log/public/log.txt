@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-21 21:09:13	|	278	|	Number of Arithmetic Triplets
 Problem solved at: 2024-01-21 21:04:36	|	277	|	Count Pairs Whose Sum is Less than Target
 Problem solved at: 2024-01-21 20:39:04	|	276	|	Integer to Roman
 Problem solved at: 2024-01-21 20:27:51	|	275	|	Zigzag Conversion
