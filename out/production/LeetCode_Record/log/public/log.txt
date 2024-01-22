@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-21 22:25:19	|	283	|	Remove Palindromic Subsequences
 Problem solved at: 2024-01-21 22:14:04	|	282	|	Find First Palindromic String in the Array
 Problem solved at: 2024-01-21 22:11:21	|	281	|	Lexicographically Smallest Palindrome
 Problem solved at: 2024-01-21 21:53:22	|	280	|	Flipping an Image
