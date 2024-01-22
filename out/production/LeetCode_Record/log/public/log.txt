@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-21 18:40:54	|	272	|	Merge Two Binary Trees
 Problem solved at: 2024-01-21 18:24:38	|	271	|	Construct String from Binary Tree
 Problem solved at: 2024-01-21 18:03:07	|	270	|	Increasing Order Search Tree
 Problem solved at: 2024-01-21 15:00:52	|	269	|	Find a Corresponding Node of a Binary Tree in a Clone of That Tree
