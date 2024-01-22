@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Sort Array By Parity II";
+        String s = "Find the Array Concatenation Value";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
