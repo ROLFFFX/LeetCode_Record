@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-21 23:07:21	|	287	|	Intersection of Two Arrays
 Problem solved at: 2024-01-21 23:03:46	|	286	|	Merge Two 2D Arrays by Summing Values
 Problem solved at: 2024-01-21 22:48:34	|	285	|	Sort Array By Parity
 Problem solved at: 2024-01-21 22:30:27	|	284	|	DI String Match
