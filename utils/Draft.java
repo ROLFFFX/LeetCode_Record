@@ -7,7 +7,12 @@ public class Draft {
 //        String s = "a, a, a, a, b,b,b,c, c";
 //        String[] arr = s.split("[!?',;. ]");
 //        for (String i : arr) System.out.println(i);
-        ifStack();
+//        ifStack();
+        String s = "abc";
+        String a = new StringBuilder(s).reverse().toString();
+        System.out.println(a);
+
+
     }
 
     public static void ifStack(){
