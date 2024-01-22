@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Find the Array Concatenation Value";
+        String s = "Largest Positive Integer That Exists With Its Negative";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
