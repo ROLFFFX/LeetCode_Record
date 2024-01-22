@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Largest Positive Integer That Exists With Its Negative";
+        String s = "Find the Distance Value Between Two Arrays";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
