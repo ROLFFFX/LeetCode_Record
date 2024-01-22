@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Merge Two 2D Arrays by Summing Values";
+        String s = "Intersection of Two Arrays";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
