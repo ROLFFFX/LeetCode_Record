@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Integer to Roman";
+        String s = "Count Pairs Whose Sum is Less than Target";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
