@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Strictly Palindromic Number";
+        String s = "Partition Array According to Given Pivot";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {

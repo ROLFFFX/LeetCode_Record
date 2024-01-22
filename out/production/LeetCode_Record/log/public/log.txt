@@ -1,3 +1,5 @@
+Problem solved at: 2024-01-22 09:58:28	|	294	|	Partition Array According to Given Pivot
+Problem solved at: 2024-01-22 00:08:47	|	293	|	Strictly Palindromic Number
 Problem solved at: 2024-01-22 00:03:06	|	292	|	Find the Distance Value Between Two Arrays
 Problem solved at: 2024-01-21 23:55:28	|	291	|	Largest Positive Integer That Exists With Its Negative
 Problem solved at: 2024-01-21 23:37:31	|	290	|	Find the Array Concatenation Value
