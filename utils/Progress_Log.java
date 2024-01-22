@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Sort Array By Parity";
+        String s = "Merge Two 2D Arrays by Summing Values";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
