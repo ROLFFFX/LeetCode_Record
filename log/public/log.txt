@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-21 22:14:04	|	282	|	Find First Palindromic String in the Array
 Problem solved at: 2024-01-21 22:11:21	|	281	|	Lexicographically Smallest Palindrome
 Problem solved at: 2024-01-21 21:53:22	|	280	|	Flipping an Image
 Problem solved at: 2024-01-21 21:14:57	|	279	|	Reverse Words in a String III
