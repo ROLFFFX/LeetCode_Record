@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Count Binary Substrings";
+        String s = "Running Sum of 1d Array";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
