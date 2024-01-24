@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Left and Right Sum Differences";
+        String s = "Sum of All Odd Length Subarrays";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
