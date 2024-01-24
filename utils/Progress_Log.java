@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Minimum Amount of Time to Collect Garbage";
+        String s = "Maximum Sum of an Hourglass";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
