@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-23 21:10:45	|	301	|	Pseudo-Palindromic Paths in a Binary Tree
 Problem solved at: 2024-01-23 09:59:56	|	300	|	Reverse String II
 Problem solved at: 2024-01-22 22:44:35	|	299	|	Maximum Length of a Concatenated String with Unique Characters
 Problem solved at: 2024-01-22 12:06:59	|	298	|	Minimum Distance Between BST Nodes
