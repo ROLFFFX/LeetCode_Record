@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Optimal Partition of String";
+        String s = "The kth Factor of n";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
