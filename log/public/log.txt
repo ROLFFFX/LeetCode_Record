@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-24 13:34:04	|	320	|	Optimal Partition of String
 Problem solved at: 2024-01-24 13:25:55	|	319	|	Number of Good Pairs
 Problem solved at: 2024-01-24 13:24:07	|	318	|	Build Array from Permutation
 Problem solved at: 2024-01-24 13:17:50	|	317	|	Group the People Given the Group Size They Belong To

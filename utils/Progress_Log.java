@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Number of Good Pairs\n";
+        String s = "Optimal Partition of String";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
