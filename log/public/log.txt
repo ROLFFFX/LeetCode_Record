@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-23 22:34:17	|	306	|	Points That Intersect With Cars
 Problem solved at: 2024-01-23 22:12:56	|	305	|	Sum of All Odd Length Subarrays
 Problem solved at: 2024-01-23 21:49:31	|	304	|	Left and Right Sum Differences
 Problem solved at: 2024-01-23 21:37:45	|	303	|	Running Sum of 1d Array
