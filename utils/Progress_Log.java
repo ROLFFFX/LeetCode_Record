@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Pseudo-Palindromic Paths in a Binary Tree";
+        String s = "Count Binary Substrings";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
