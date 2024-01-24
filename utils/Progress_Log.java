@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Maximum Sum of an Hourglass";
+        String s = "Find the Score of All Prefixes of an Array";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
