@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-24 13:24:07	|	318	|	Build Array from Permutation
 Problem solved at: 2024-01-24 13:17:50	|	317	|	Group the People Given the Group Size They Belong To
 Problem solved at: 2024-01-24 12:54:51	|	316	|	Sum of Absolute Differences in a Sorted Array
 Problem solved at: 2024-01-24 10:38:49	|	315	|	Find the Middle Index in Array
