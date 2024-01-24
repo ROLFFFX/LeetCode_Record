@@ -1,4 +1,4 @@
-package Medium.Delete_the_Middle_Node_of_a_Linked_List;
+package Medium.Lists.Delete_the_Middle_Node_of_a_Linked_List;
 
 public class Delete_the_Middle_Node_of_a_Linked_List {
     public ListNode deleteMiddle(ListNode head) {

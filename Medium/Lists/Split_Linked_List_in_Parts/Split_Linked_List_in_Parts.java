@@ -1,4 +1,4 @@
-package Medium.Split_Linked_List_in_Parts;
+package Medium.Lists.Split_Linked_List_in_Parts;
 
 public class Split_Linked_List_in_Parts {
     public ListNode[] splitListToParts(ListNode root, int k) {

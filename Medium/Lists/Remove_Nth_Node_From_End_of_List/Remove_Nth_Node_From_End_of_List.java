@@ -1,6 +1,4 @@
-package Medium.Remove_Nth_Node_From_End_of_List;
-
-import java.util.List;
+package Medium.Lists.Remove_Nth_Node_From_End_of_List;
 
 public class Remove_Nth_Node_From_End_of_List {
     public static void main(String[] args) {

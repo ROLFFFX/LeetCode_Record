@@ -1,6 +1,6 @@
-package Medium.AddTwoNumbers_11_2;
+package Medium.Lists.Remove_Nodes_From_Linked_List;
 
-public class ListNode {
+  public class ListNode {
       int val;
       ListNode next;
       ListNode() {}

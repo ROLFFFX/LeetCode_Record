@@ -1,4 +1,4 @@
-package Medium.Maximum_Twin_Sum_of_a_Linked_List;
+package Medium.Lists.Maximum_Twin_Sum_of_a_Linked_List;
 
 public class Maximum_Twin_Sum_of_a_Linked_List {
     public int pairSum(ListNode head) {

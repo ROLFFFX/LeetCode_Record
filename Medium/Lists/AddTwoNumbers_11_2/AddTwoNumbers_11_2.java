@@ -1,4 +1,4 @@
-package Medium.AddTwoNumbers_11_2;
+package Medium.Lists.AddTwoNumbers_11_2;
 
 public class AddTwoNumbers_11_2 {
     public static void main(String[] args) {

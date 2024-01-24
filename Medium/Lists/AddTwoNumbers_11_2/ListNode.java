@@ -1,6 +1,6 @@
-package Medium.Reverse_Linked_List_2;
+package Medium.Lists.AddTwoNumbers_11_2;
 
-  public class ListNode {
+public class ListNode {
       int val;
       ListNode next;
       ListNode() {}

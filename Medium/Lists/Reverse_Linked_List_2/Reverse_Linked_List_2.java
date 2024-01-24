@@ -1,4 +1,4 @@
-package Medium.Reverse_Linked_List_2;
+package Medium.Lists.Reverse_Linked_List_2;
 
 public class Reverse_Linked_List_2 {
     public static void main(String[] args) {

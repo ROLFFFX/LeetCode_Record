@@ -1,4 +1,4 @@
-package Medium.Odd_Even_Linked_List;
+package Medium.Lists.Odd_Even_Linked_List;
 
 public class Odd_Even_Linked_List {
     public ListNode oddEvenList(ListNode head) {

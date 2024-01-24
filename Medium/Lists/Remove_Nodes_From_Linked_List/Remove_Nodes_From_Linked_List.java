@@ -1,4 +1,4 @@
-package Medium.Remove_Nodes_From_Linked_List;
+package Medium.Lists.Remove_Nodes_From_Linked_List;
 
 public class Remove_Nodes_From_Linked_List {
     public ListNode removeNodes(ListNode head) {

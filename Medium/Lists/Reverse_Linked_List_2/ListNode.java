@@ -1,4 +1,4 @@
-package Medium.Remove_Nodes_From_Linked_List;
+package Medium.Lists.Reverse_Linked_List_2;
 
   public class ListNode {
       int val;

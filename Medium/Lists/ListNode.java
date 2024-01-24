@@ -1,6 +1,6 @@
-package Medium.Split_Linked_List_in_Parts;
+package Medium.Lists;
 
-public class ListNode {
+    public class ListNode {
     int val;
     ListNode next;
     ListNode() {}

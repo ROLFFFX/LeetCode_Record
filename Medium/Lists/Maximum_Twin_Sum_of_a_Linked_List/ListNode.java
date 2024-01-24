@@ -1,7 +1,7 @@
-package Medium.Odd_Even_Linked_List;
+package Medium.Lists.Maximum_Twin_Sum_of_a_Linked_List;
 
-  public class ListNode {
-      int val;
+ public class ListNode {
+     int val;
       ListNode next;
       ListNode() {}
       ListNode(int val) { this.val = val; }

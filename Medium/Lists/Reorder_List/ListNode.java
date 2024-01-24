@@ -1,4 +1,4 @@
-package Medium.Reorder_List;
+package Medium.Lists.Reorder_List;
 
 class ListNode {
     int val;
