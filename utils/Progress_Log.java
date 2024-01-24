@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Find the Middle Index in Array";
+        String s = "Sum of Absolute Differences in a Sorted Array";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
