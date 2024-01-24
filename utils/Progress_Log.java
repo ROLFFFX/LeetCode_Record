@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Group the People Given the Group Size They Belong To";
+        String s = "Build Array from Permutation";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
