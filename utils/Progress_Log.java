@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Find Indices With Index and Value Difference I";
+        String s = "Find All K-Distant Indices in an Array\n";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
