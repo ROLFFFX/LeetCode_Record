@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-24 00:45:32	|	314	|	Find the Score of All Prefixes of an Array
 Problem solved at: 2024-01-24 00:27:03	|	313	|	Maximum Sum of an Hourglass
 Problem solved at: 2024-01-24 00:22:01	|	312	|	Minimum Amount of Time to Collect Garbage
 Problem solved at: 2024-01-23 23:43:06	|	311	|	Longest Subsequence With Limited Sum
