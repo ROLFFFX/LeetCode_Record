@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-24 16:48:17	|	327	|	Trapping Rain Water
 Problem solved at: 2024-01-24 16:39:17	|	326	|	Two Sum
 Problem solved at: 2024-01-24 14:46:36	|	325	|	Minimum Cost to Connect Sticks
 Problem solved at: 2024-01-24 14:27:40	|	324	|	Single-Row Keyboard
