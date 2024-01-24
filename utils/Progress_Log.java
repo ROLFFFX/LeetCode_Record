@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Running Sum of 1d Array";
+        String s = "Left and Right Sum Differences";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
