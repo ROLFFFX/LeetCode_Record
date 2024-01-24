@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "The kth Factor of n";
+        String s = "Letter Combinations of a Phone Number®";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
