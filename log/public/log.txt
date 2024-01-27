@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-27 17:28:16	|	332	|	Longest ZigZag Path in a Binary Tree
 Problem solved at: 2024-01-27 16:52:23	|	331	|	Path Sum III
 Problem solved at: 2024-01-27 15:43:09	|	330	|	Count Good Nodes in Binary Tree
 Problem solved at: 2024-01-26 16:39:29	|	329	|	Longest Common Subsequence
