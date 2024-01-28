@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Lowest Common Ancestor of a Binary Tree";
+        String s = "Number of Changing Keys";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
