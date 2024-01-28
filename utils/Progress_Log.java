@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Alice and Bob Playing Flower Game";
+        String s = "Search in a Binary Search Tree";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
