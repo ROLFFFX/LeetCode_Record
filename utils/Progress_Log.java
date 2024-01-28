@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Find the Maximum Number of Elements in Subset";
+        String s = "Alice and Bob Playing Flower Game";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
