@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Count Prefixes of a Given String";
+        String s = "Longest Binary Subsequence Less Than or Equal to K";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
