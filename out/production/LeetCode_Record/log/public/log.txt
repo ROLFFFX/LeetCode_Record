@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-31 12:10:47	|	352	|	First Letter to Appear Twice
 Problem solved at: 2024-01-31 11:59:40	|	351	|	N-Repeated Element in Size 2N Array
 Problem solved at: 2024-01-31 11:22:57	|	350	|	Longest Binary Subsequence Less Than or Equal to K
 Problem solved at: 2024-01-31 10:36:00	|	349	|	Count Prefixes of a Given String
