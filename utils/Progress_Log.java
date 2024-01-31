@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Sort Characters By Frequency";
+        String s = "Construct Binary Tree from Inorder and Postorder Traversal";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
