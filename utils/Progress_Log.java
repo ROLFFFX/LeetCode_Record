@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Check If String Is a Prefix of Array";
+        String s = "Array Partition";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
