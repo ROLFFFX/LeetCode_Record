@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Minimum Absolute Difference in BST";
+        String s = "Find the Divisibility Array of a String";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
