@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Daily Temperatures";
+        String s = "Count the Number of Consistent Strings";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
