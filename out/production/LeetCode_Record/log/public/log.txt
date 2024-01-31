@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-31 01:53:56	|	346	|	Minimize String Length
 Problem solved at: 2024-01-31 01:45:13	|	345	|	Array Partition
 Problem solved at: 2024-01-31 01:37:35	|	344	|	Check If String Is a Prefix of Array
 Problem solved at: 2024-01-31 01:33:46	|	343	|	Count the Number of Consistent Strings
