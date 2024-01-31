@@ -1,3 +1,4 @@
+Problem solved at: 2024-01-31 15:38:25	|	358	|	Third Maximum Number
 Problem solved at: 2024-01-31 13:57:45	|	357	|	Largest Submatrix With Rearrangements
 Problem solved at: 2024-01-31 13:44:41	|	356	|	Find the Divisibility Array of a String
 Problem solved at: 2024-01-31 13:30:33	|	355	|	Minimum Absolute Difference in BST
