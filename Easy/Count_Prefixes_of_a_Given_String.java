@@ -11,4 +11,12 @@ public class Count_Prefixes_of_a_Given_String {
         }
         return c;
     }
+
+    public int countPrefixes_optimized(String[] words, String s) {
+        int c = 0;
+        for (String pre : words){
+            if (s.startsWith(pre)) c++;
+        }
+        return c;
+    }
 }
