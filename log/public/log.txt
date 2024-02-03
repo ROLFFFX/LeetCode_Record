@@ -1,3 +1,4 @@
+Problem solved at: 2024-02-03 03:36:28	|	362	|	Minimum Operations to Make the Array Increasing
 Problem solved at: 2024-02-02 03:05:33	|	361	|	Largest Unique Number
 Problem solved at: 2024-02-02 03:00:59	|	360	|	Sequential Digits
 Problem solved at: 2024-01-31 15:54:45	|	359	|	Number of Different Integers in a String
