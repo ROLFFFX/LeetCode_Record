@@ -1,3 +1,4 @@
+Problem solved at: 2024-02-03 20:05:07	|	364	|	Minimum Window Substring
 Problem solved at: 2024-02-03 19:38:26	|	363	|	Sorting the Sentence
 Problem solved at: 2024-02-03 03:36:28	|	362	|	Minimum Operations to Make the Array Increasing
 Problem solved at: 2024-02-02 03:05:33	|	361	|	Largest Unique Number

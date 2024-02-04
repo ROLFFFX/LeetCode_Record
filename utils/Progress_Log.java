@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Sorting the Sentence";
+        String s = "Minimum Window Substring";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
