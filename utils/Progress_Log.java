@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Minimum Operations to Make the Array Increasing";
+        String s = "Sorting the Sentence";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
