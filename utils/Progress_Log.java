@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Substrings of Size Three with Distinct Characters";
+        String s = "Largest Local Values in a Matrix";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
