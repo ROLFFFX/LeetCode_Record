@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Minimum Moves to Equal Array Elements II";
+        String s = "Substrings of Size Three with Distinct Characters";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
