@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Minimum Time to Revert Word to Initial State II";
+        String s = "First Unique Character in a String";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {

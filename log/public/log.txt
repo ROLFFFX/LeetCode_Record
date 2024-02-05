@@ -1,3 +1,4 @@
+Problem solved at: 2024-02-04 21:44:59	|	369	|	First Unique Character in a String
 Problem solved at: 2024-02-03 23:04:55	|	368	|	Minimum Time to Revert Word to Initial State II
 Problem solved at: 2024-02-03 23:03:09	|	367	|	Find the Grid of Region Average
 Problem solved at: 2024-02-03 23:02:23	|	366	|	Minimum Time to Revert Word to Initial State I
