@@ -1,3 +1,4 @@
+Problem solved at: 2024-02-04 23:58:41	|	371	|	Minimum Moves to Equal Array Elements II
 Problem solved at: 2024-02-04 23:52:55	|	370	|	Rotate List
 Problem solved at: 2024-02-04 21:44:59	|	369	|	First Unique Character in a String
 Problem solved at: 2024-02-03 23:04:55	|	368	|	Minimum Time to Revert Word to Initial State II
