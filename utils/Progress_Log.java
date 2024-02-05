@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Largest Local Values in a Matrix";
+        String s = "How Many Numbers Are Smaller Than the Current Number";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
