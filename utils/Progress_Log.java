@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Longest Palindrome by Concatenating Two Letter Words";
+        String s = "Delete Node in a BST";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
