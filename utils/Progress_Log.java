@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Find Center of Star Graph";
+        String s = "Path Sum II";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
