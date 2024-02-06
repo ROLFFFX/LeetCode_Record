@@ -1,4 +1,5 @@
 Problem solved at: 2024-02-05 06:20:52	|	375	|	Longest Palindrome by Concatenating Two Letter Words
+Problem solved at: 2024-02-05 20:49:09	|	375	|	Delete Node in a BST
 Problem solved at: 2024-02-05 05:56:20	|	374	|	How Many Numbers Are Smaller Than the Current Number
 Problem solved at: 2024-02-05 05:49:53	|	373	|	Largest Local Values in a Matrix
 Problem solved at: 2024-02-05 00:17:49	|	372	|	Substrings of Size Three with Distinct Characters
@@ -35,7 +36,6 @@ Problem solved at: 2024-01-31 01:30:47	|	342	|	Daily Temperatures
 Problem solved at: 2024-01-29 19:49:15	|	341	|	Evaluate Reverse Polish Notation
 Problem solved at: 2024-01-29 10:36:02	|	340	|	Implement Queue using Stacks
 Problem solved at: 2024-01-28 00:15:29	|	339	|	Count Univalue Subtrees
-Problem solved at: 2024-01-27 23:43:44	|	338	|	Delete Node in a BST
 Problem solved at: 2024-01-27 23:32:56	|	337	|	Search in a Binary Search Tree
 Problem solved at: 2024-01-27 23:13:35	|	336	|	Alice and Bob Playing Flower Game
 Problem solved at: 2024-01-27 23:12:57	|	335	|	Find the Maximum Number of Elements in Subset
