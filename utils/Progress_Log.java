@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Min Cost Climbing Stairs";
+        String s = "Perfect Squares";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
