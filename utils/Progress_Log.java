@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Largest Divisible Subset";
+        String s = "Rearrange Array Elements by Sign";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
