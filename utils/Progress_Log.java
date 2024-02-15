@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Rearrange Array Elements by Sign";
+        String s = "Find Polygon With the Largest Perimeter";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
