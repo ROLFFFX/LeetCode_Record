@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Least Number of Unique Integers after K Removals";
+        String s = "Furthest Building You Can Reach";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
