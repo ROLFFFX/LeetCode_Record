@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Find the Town Judge";
+        String s = "Successful Pairs of Spells and Potions";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {

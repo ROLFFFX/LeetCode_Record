@@ -1,3 +1,4 @@
+Problem solved at: 2024-02-21 21:37:04	|	389	|	Find the Town Judge
 Problem solved at: 2024-02-21 10:07:00	|	388	|	Bitwise AND of Numbers Range
 Problem solved at: 2024-02-19 23:03:48	|	387	|	Missing Number
 Problem solved at: 2024-02-18 19:31:15	|	386	|	Power of Two
