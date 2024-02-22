@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Bitwise AND of Numbers Range";
+        String s = "Find the Town Judge";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
