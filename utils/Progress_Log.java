@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Successful Pairs of Spells and Potions";
+        String s = "Calculate Digit Sum of a String";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
