@@ -1,3 +1,4 @@
+Problem solved at: 2024-02-29 20:11:06	|	397	|	Maximum Odd Binary Number
 Problem solved at: 2024-02-28 21:24:56	|	396	|	Even Odd Tree
 Problem solved at: 2024-02-27 23:21:41	|	395	|	Find Bottom Left Tree Value
 Problem solved at: 2024-02-26 20:01:15	|	394	|	Diameter of Binary Tree
