@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Minimum Length of String After Deleting Similar Ends";
+        String s = "Missing Number In Arithmetic Progression";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {

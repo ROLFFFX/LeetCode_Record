@@ -1,3 +1,4 @@
+Problem solved at: 2024-03-04 23:31:33	|	400	|	Minimum Length of String After Deleting Similar Ends
 Problem solved at: 2024-03-03 01:09:37	|	399	|	Remove Nth Node From End of List
 Problem solved at: 2024-03-01 23:59:55	|	398	|	Squares of a Sorted Array
 Problem solved at: 2024-03-01 23:59:16	|	397	|	Maximum Odd Binary Number
