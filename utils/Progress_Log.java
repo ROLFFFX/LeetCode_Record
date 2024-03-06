@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Missing Number In Arithmetic Progression";
+        String s = "Linked List Cycle";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
