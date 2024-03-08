@@ -1,3 +1,4 @@
+Problem solved at: 2024-03-08 18:53:25	|	404	|	Count Complete Tree Nodes
 Problem solved at: 2024-03-07 20:08:04	|	403	|	Count Elements With Maximum Frequency
 Problem solved at: 2024-03-06 12:22:48	|	402	|	Linked List Cycle
 Problem solved at: 2024-03-05 15:24:43	|	401	|	Missing Number In Arithmetic Progression
