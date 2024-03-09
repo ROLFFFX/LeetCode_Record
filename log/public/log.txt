@@ -1,3 +1,4 @@
+Problem solved at: 2024-03-09 17:55:25	|	406	|	Find Smallest Letter Greater Than Target
 Problem solved at: 2024-03-09 03:27:45	|	405	|	Binary Search
 Problem solved at: 2024-03-09 03:30:34	|	405	|	Minimum Common Value
 Problem solved at: 2024-03-08 18:53:25	|	404	|	Count Complete Tree Nodes
