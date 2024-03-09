@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Count Complete Tree Nodes";
+        String s = "Binary Search";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
