@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Find Smallest Letter Greater Than Target";
+        String s = "Custom Sort String";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
