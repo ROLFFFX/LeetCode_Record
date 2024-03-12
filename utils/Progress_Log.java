@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Number of Students Doing Homework at a Given Time";
+        String s = "Remove Zero Sum Consecutive Nodes from Linked List";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {

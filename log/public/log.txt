@@ -1,3 +1,4 @@
+Problem solved at: 2024-03-11 20:11:04	|	412	|	Remove Zero Sum Consecutive Nodes from Linked List
 Problem solved at: 2024-03-10 22:12:23	|	411	|	Number of Students Doing Homework at a Given Time
 Problem solved at: 2024-03-10 22:06:38	|	410	|	Add Digits
 Problem solved at: 2024-03-10 21:39:49	|	409	|	Percentage of Letter in String
