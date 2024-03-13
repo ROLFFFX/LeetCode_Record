@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Repeated DNA Sequences";
+        String s = "Find the pivot integer";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
