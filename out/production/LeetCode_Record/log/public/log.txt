@@ -1,3 +1,4 @@
+Problem solved at: 2024-03-12 18:54:49	|	414	|	Find the pivot integer
 Problem solved at: 2024-03-11 21:06:42	|	413	|	Repeated DNA Sequences
 Problem solved at: 2024-03-11 20:11:04	|	412	|	Remove Zero Sum Consecutive Nodes from Linked List
 Problem solved at: 2024-03-10 22:12:23	|	411	|	Number of Students Doing Homework at a Given Time
