@@ -1,3 +1,4 @@
+Problem solved at: 2024-03-16 18:27:47	|	419	|	Insert Interval
 Problem solved at: 2024-03-15 21:42:29	|	418	|	Contiguous Array
 Problem solved at: 2024-03-14 19:10:08	|	417	|	Product of Array Except Self
 Problem solved at: 2024-03-14 15:40:43	|	416	|	Divide Players Into Teams of Equal Skill
