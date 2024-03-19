@@ -1,3 +1,4 @@
+Problem solved at: 2024-03-17 18:54:48	|	421	|	Minimum Number of Arrows to Burst Balloons
 Problem solved at: 2024-03-16 18:44:01	|	420	|	Intersection of Three Sorted Arrays
 Problem solved at: 2024-03-16 18:27:47	|	419	|	Insert Interval
 Problem solved at: 2024-03-15 21:42:29	|	418	|	Contiguous Array
@@ -13,8 +14,8 @@ Problem solved at: 2024-03-10 21:39:49	|	409	|	Percentage of Letter in String
 Problem solved at: 2024-03-10 21:29:59	|	408	|	Base 7
 Problem solved at: 2024-03-10 20:24:52	|	407	|	Custom Sort String
 Problem solved at: 2024-03-09 17:55:25	|	406	|	Find Smallest Letter Greater Than Target
-Problem solved at: 2024-03-09 03:27:45	|	405	|	Binary Search
 Problem solved at: 2024-03-09 03:30:34	|	405	|	Minimum Common Value
+Problem solved at: 2024-03-09 03:27:45	|	405	|	Binary Search
 Problem solved at: 2024-03-08 18:53:25	|	404	|	Count Complete Tree Nodes
 Problem solved at: 2024-03-07 20:08:04	|	403	|	Count Elements With Maximum Frequency
 Problem solved at: 2024-03-06 12:22:48	|	402	|	Linked List Cycle
