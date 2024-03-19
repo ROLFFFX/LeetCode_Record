@@ -1,4 +1,4 @@
-package Medium.Lists;
+package Easy.Lists.MergeTwoSortedLists_7_21;
 
 public class ListNode {
     int val;

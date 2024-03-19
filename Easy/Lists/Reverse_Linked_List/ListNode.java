@@ -1,4 +1,4 @@
-package Medium.Lists;
+package Easy.Lists.Reverse_Linked_List;
 
 public class ListNode {
     int val;

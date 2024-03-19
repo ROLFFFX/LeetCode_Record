@@ -1,4 +1,4 @@
-package Medium.Lists;
+package Easy.Lists.Remove_Duplicates_from_Sorted_List;
 
 public class ListNode {
     int val;

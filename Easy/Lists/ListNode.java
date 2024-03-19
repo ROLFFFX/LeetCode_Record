@@ -1,4 +1,4 @@
-package Medium.Lists;
+package Easy.Lists;
 
 public class ListNode {
     int val;
