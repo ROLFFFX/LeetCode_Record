@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Count Nodes Equal to Average of Subtree";
+        String s = "Power of Four";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
