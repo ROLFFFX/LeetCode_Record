@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Number of Lines To Write String";
+        String s = "Relative Ranks";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
