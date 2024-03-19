@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Delete N Nodes After M Nodes of a Linked List";
+        String s = "Maximum Number of Balls in a Box";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
