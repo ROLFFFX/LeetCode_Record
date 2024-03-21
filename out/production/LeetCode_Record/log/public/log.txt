@@ -1,3 +1,4 @@
+Problem solved at: 2024-03-21 10:11:41	|	438	|	Insert Delete GetRandom O(1)
 Problem solved at: 2024-03-21 03:02:59	|	437	|	H-Index
 Problem solved at: 2024-03-21 02:48:09	|	436	|	Jump Game II
 Problem solved at: 2024-03-21 02:25:57	|	435	|	Jump Game
