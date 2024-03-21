@@ -1,3 +1,4 @@
+Problem solved at: 2024-03-21 01:56:22	|	433	|	Best Time to Buy and Sell Stock
 Problem solved at: 2024-03-21 01:54:18	|	432	|	Rotate Array
 Problem solved at: 2024-03-20 02:21:53	|	431	|	Check if Array is Good
 Problem solved at: 2024-03-20 02:10:36	|	430	|	Minimum Amount of Time to Fill Cups

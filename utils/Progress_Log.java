@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Rotate Array";
+        String s = "Best Time to Buy and Sell Stock";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
