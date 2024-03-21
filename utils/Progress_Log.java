@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "H-Index";
+        String s = "Insert Delete GetRandom O(1)";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
