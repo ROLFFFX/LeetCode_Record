@@ -1,3 +1,4 @@
+Problem solved at: 2024-03-25 11:43:50	|	443	|	Ransom Note
 Problem solved at: 2024-03-24 23:36:28	|	442	|	Find All Duplicates in an Array®
 Problem solved at: 2024-03-23 20:13:50	|	441	|	Find the Duplicate Number
 Problem solved at: 2024-03-21 20:33:54	|	440	|	Palindrome Linked List
