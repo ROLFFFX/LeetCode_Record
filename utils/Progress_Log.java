@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Subarray Product Less Than K";
+        String s = "Length of Longest Subarray With at Most K Frequency";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
