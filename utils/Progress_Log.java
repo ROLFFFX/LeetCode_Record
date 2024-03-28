@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Minimum Sum of Mountain Triplets I";
+        String s = "Find Lucky Integer in an Array";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {

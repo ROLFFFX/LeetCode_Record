@@ -1,3 +1,4 @@
+Problem solved at: 2024-03-28 00:31:58	|	447	|	Minimum Sum of Mountain Triplets I
 Problem solved at: 2024-03-27 21:48:16	|	446	|	Length of Longest Subarray With at Most K Frequency
 Problem solved at: 2024-03-27 00:28:22	|	445	|	Subarray Product Less Than K
 Problem solved at: 2024-03-25 23:37:19	|	444	|	First Missing Positive
