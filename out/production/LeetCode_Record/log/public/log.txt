@@ -1,3 +1,5 @@
+Problem solved at: 2024-03-28 14:04:32	|	452	|	Number of Common Factors
+Problem solved at: 2024-03-28 14:02:36	|	451	|	Height Checker
 Problem solved at: 2024-03-28 13:58:13	|	450	|	Consecutive Characters
 Problem solved at: 2024-03-28 13:54:04	|	449	|	Richest Customer Wealth
 Problem solved at: 2024-03-28 13:49:46	|	448	|	Find Lucky Integer in an Array

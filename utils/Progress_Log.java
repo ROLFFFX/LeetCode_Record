@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Height Checker";
+        String s = "Find Maximum Number of String Pairs";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
