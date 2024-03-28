@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Find Lucky Integer in an Array";
+        String s = "Richest Customer Wealth";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
