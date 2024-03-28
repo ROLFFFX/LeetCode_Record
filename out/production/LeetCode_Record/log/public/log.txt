@@ -1,3 +1,4 @@
+Problem solved at: 2024-03-28 13:58:13	|	450	|	Consecutive Characters
 Problem solved at: 2024-03-28 13:54:04	|	449	|	Richest Customer Wealth
 Problem solved at: 2024-03-28 13:49:46	|	448	|	Find Lucky Integer in an Array
 Problem solved at: 2024-03-28 00:31:58	|	447	|	Minimum Sum of Mountain Triplets I
