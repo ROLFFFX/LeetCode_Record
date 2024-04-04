@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Maximum Nesting Depth of the Parentheses";
+        String s = "Check if All A's Appears Before All B's";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
