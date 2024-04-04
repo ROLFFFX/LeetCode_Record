@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Subarrays with K Different Integers";
+        String s = "Maximum Nesting Depth of the Parentheses";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
