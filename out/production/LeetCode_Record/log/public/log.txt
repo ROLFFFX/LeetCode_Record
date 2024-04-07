@@ -1,3 +1,4 @@
+Problem solved at: 2024-04-05 21:06:06	|	457	|	Minimum Remove to Make Valid Parentheses
 Problem solved at: 2024-04-04 15:00:30	|	456	|	Check if All A's Appears Before All B's
 Problem solved at: 2024-04-03 21:22:34	|	455	|	Maximum Nesting Depth of the Parentheses
 Problem solved at: 2024-03-29 22:33:48	|	454	|	Subarrays with K Different Integers
