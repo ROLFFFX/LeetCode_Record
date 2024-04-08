@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Minimum Consecutive Cards to Pick Up";
+        String s = "Find All The Lonely Nodes";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
