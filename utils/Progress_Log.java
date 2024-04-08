@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Find All The Lonely Nodes";
+        String s = "Goal Parser Interpretation";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
