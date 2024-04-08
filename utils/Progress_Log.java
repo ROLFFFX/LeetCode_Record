@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Divisible and Non-divisible Sums Difference";
+        String s = "Number of Students Unable to Eat Lunch";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
