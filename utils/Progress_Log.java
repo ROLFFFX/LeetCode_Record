@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Time Needed to Buy Tickets";
+        String s = "Check Whether Two Strings are Almost Equivalent";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
