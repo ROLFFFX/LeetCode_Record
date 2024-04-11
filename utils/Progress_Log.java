@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Reveal Cards In Increasing Order";
+        String s = "Strobogrammatic Number";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
