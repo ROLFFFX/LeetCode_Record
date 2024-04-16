@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Add One Row to Tree";
+        String s = "Longest Substring with At Most Two Distinct Characters";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
