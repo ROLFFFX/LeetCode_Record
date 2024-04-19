@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Maximum Number of Integers to Choose From a Range I";
+        String s = "Find the Prefix Common Array of Two Arrays";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {

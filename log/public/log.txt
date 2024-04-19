@@ -1,3 +1,4 @@
+Problem solved at: 2024-04-19 14:07:44	|	478	|	Find the Prefix Common Array of Two Arrays
 Problem solved at: 2024-04-19 03:47:53	|	477	|	Maximum Number of Integers to Choose From a Range I
 Problem solved at: 2024-04-19 03:27:33	|	476	|	Maximum Sum of Distinct Subarrays With Length K
 Problem solved at: 2024-04-18 23:03:38	|	475	|	Special Array With X Elements Greater Than or Equal X
