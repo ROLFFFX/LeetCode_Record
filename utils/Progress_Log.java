@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Special Array With X Elements Greater Than or Equal X";
+        String s = "Maximum Sum of Distinct Subarrays With Length K";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
