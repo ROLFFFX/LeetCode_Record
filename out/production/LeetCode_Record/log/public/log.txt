@@ -1,3 +1,4 @@
+Problem solved at: 2024-04-20 22:16:32	|	480	|	Find All Groups of Farmland
 Problem solved at: 2024-04-19 14:16:58	|	479	|	Super Washing Machines
 Problem solved at: 2024-04-19 14:07:44	|	478	|	Find the Prefix Common Array of Two Arrays
 Problem solved at: 2024-04-19 03:47:53	|	477	|	Maximum Number of Integers to Choose From a Range I
