@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Count the Number of Special Characters II";
+        String s = "Minimum Height Trees";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
