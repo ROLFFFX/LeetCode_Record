@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Freedom Trail";
+        String s = "Sum of Distances in Tree";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {

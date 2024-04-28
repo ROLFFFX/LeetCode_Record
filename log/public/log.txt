@@ -1,3 +1,4 @@
+Problem solved at: 2024-04-27 21:01:37	|	488	|	Sum of Distances in Tree
 Problem solved at: 2024-04-26 20:31:51	|	487	|	Freedom Trail
 Problem solved at: 2024-04-25 23:17:58	|	486	|	Minimum Falling Path Sum II
 Problem solved at: 2024-04-24 22:07:41	|	485	|	Generate Parentheses
