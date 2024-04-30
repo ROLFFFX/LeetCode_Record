@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Minimum Number of Operations to Make Array XOR Equal to K";
+        String s = "Jewels and Stones";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
