@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Delete Node in a Linked List";
+        String s = "Remove Nodes From Linked List";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
