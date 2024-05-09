@@ -1,3 +1,4 @@
+Problem solved at: 2024-05-07 23:23:31	|	494	|	Gold Medal
 Problem solved at: 2024-05-06 10:19:46	|	493	|	Remove Nodes From Linked List
 Problem solved at: 2024-05-05 16:10:31	|	492	|	Delete Node in a Linked List
 Problem solved at: 2024-05-03 20:59:44	|	491	|	Linked List Frequency
