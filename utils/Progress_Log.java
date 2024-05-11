@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "K-th Smallest Prime Fraction";
+        String s = "Minimum Cost to Hire K Workers";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
