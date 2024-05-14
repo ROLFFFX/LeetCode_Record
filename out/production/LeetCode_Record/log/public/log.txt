@@ -1,3 +1,4 @@
+Problem solved at: 2024-05-11 00:43:08	|	497	|	Minimum Cost to Hire K Workers
 Problem solved at: 2024-05-09 21:25:36	|	496	|	K-th Smallest Prime Fraction
 Problem solved at: 2024-05-08 23:02:19	|	495	|	Maximize Happiness of Selected Children
 Problem solved at: 2024-05-07 23:23:31	|	494	|	Gold Medal
