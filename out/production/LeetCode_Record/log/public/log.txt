@@ -1,3 +1,4 @@
+Problem solved at: 2024-05-14 21:03:37	|	499	|	Safest Path
 Problem solved at: 2024-05-14 12:27:33	|	498	|	Path with Maximum Gold
 Problem solved at: 2024-05-11 00:43:08	|	497	|	Minimum Cost to Hire K Workers
 Problem solved at: 2024-05-09 21:25:36	|	496	|	K-th Smallest Prime Fraction
