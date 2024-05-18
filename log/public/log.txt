@@ -1,3 +1,4 @@
+Problem solved at: 2024-05-17 11:27:21	|	501	|	remove leaf node
 Problem solved at: 2024-05-16 16:58:21	|	500	|	evaluate tree
 Problem solved at: 2024-05-14 21:03:37	|	499	|	Safest Path
 Problem solved at: 2024-05-14 12:27:33	|	498	|	Path with Maximum Gold
