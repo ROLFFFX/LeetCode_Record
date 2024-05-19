@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "remove leaf node";
+        String s = "Find the Maximum Sum of Node Values\n";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
