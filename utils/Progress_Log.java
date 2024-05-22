@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Find the Maximum Sum of Node Values\n";
+        String s = "Palindrome Partitioning";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {
