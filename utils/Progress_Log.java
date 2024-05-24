@@ -10,7 +10,7 @@ import java.util.Map;
 public class Progress_Log {
 
     public static void main(String[] args) {
-        String s = "Palindrome Partitioning";
+        String s = "Maximum Score Words Formed by Letters";
         String ans = "";
         for (char c : s.toCharArray()) {
             if (c == ' ') {

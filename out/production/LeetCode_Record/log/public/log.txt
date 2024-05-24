@@ -1,4 +1,4 @@
-Problem solved at: 2024-05-21 21:53:18	|	503	|	Find the Maximum Sum of Node Values
+Problem solved at: 2024-05-22 13:23:29	|	504	|	Palindrome Partitioning
 Problem solved at: 2024-05-19 15:26:56	|	502	|	Find the Maximum Sum of Node Values
 Problem solved at: 2024-05-17 11:27:21	|	501	|	remove leaf node
 Problem solved at: 2024-05-16 16:58:21	|	500	|	evaluate tree
